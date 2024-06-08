@@ -4,3 +4,5 @@ A Game Cheating Enging capable of modifying the games and other executables memo
 
 - Specifically designed for Windows Executables.
 - Exclusive use of Windows API functions to give effective results.
+
+#### Type: Modder.exe -help
