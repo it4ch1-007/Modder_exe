@@ -1,0 +1,3 @@
+﻿  debug.cpp
+D:\Game Internals\Modder\Modder\debug.cpp(21,7): warning C4101: 'original_instrn': unreferenced local variable
+  Modder.vcxproj -> D:\Game Internals\Modder\x64\Debug\Modder.exe
