@@ -4,7 +4,7 @@
 #include <tlhelp32.h>
 
 
-int debug() {
+int debug(std::string processName) {
 	//We will first try setting a breakpoint at the instruction where the ammo is being subtracted or simply we will break when the player shoots.
 	//the breakpoint should be set and the continue should work and the registers must be shown.
 
@@ -30,7 +30,7 @@ int debug() {
 	int cnt = 0;
 	snapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS,0);
 	Process32First(snapshot, &pe32);
-	HWND game_wnd = FindWindowA(0, "The Battle for Wesnoth - 1.14.9");
+	HWND game_wnd = FindWindowA(0, processName.c_str());
 	GetWindowThreadProcessId(game_wnd, &pid);
 	do {
 		if (pe32.th32ProcessID == pid) {

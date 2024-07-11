@@ -139,7 +139,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DLLInjector.h" />
-    <ClInclude Include="calllogger.h" />
+    <ClInclude Include="call_logger.h" />
     <ClInclude Include="debug.h" />
     <ClInclude Include="disassembler.h" />
     <ClInclude Include="memory_scanner.h" />

@@ -3,3 +3,5 @@ D:\Game Internals\Modder\Modder\console.cpp;D:\Game Internals\Modder\Modder\x64\
 D:\Game Internals\Modder\Modder\call_logger.cpp;D:\Game Internals\Modder\Modder\x64\Debug\call_logger.obj
 D:\Game Internals\Modder\Modder\patternscan.cpp;D:\Game Internals\Modder\Modder\x64\Debug\patternscan.obj
 D:\Game Internals\Modder\Modder\debug.cpp;D:\Game Internals\Modder\Modder\x64\Debug\debug.obj
+D:\Game Internals\Modder\Modder\disassembler.cpp;D:\Game Internals\Modder\Modder\x64\Debug\disassembler.obj
+D:\Game Internals\Modder\Modder\memory_scanner.cpp;D:\Game Internals\Modder\Modder\x64\Debug\memory_scanner.obj

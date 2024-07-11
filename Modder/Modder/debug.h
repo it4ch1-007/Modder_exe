@@ -2,5 +2,5 @@
 #ifndef debug_H
 #include <string>
 
-int debug();
+int debug(std::string);
 #endif

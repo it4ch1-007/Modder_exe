@@ -1,3 +1,3 @@
-﻿  debug.cpp
-D:\Game Internals\Modder\Modder\debug.cpp(21,7): warning C4101: 'original_instrn': unreferenced local variable
-  Modder.vcxproj -> D:\Game Internals\Modder\x64\Debug\Modder.exe
+﻿  console.cpp
+disassembler.obj : error LNK2005: "class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > __cdecl charToWChar(char const *)" (?charToWChar@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBD@Z) already defined in call_logger.obj
+D:\Game Internals\Modder\x64\Debug\Modder.exe : fatal error LNK1169: one or more multiply defined symbols found

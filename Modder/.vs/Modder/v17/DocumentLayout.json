@@ -3,48 +3,24 @@
   "WorkspaceRootPath": "D:\\Game Internals\\Modder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\disassembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\disassembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\disassembler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\disassembler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\debug.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\debug.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\call_logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\call_logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\patternscan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\patternscan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\call_logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\call_logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\disassembler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\disassembler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\debug.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\debug.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\patternscan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\patternscan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\DLLInjector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\DLLInjector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\DLL_Injector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\DLL_Injector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\calllogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\calllogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|D:\\Game Internals\\Modder\\Modder\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{797677FB-2B59-4F5F-B1EA-9DD0AD86E5C1}|Modder\\Modder.vcxproj|solutionrelative:Modder\\console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,142 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "console.cpp",
-              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\console.cpp",
-              "RelativeDocumentMoniker": "Modder\\console.cpp",
-              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\console.cpp",
-              "RelativeToolTip": "Modder\\console.cpp",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAADcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-28T15:11:40.911Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "patternscan.h",
-              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\patternscan.h",
-              "RelativeDocumentMoniker": "Modder\\patternscan.h",
-              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\patternscan.h",
-              "RelativeToolTip": "Modder\\patternscan.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-29T11:28:33.857Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "disassembler.h",
-              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\disassembler.h",
-              "RelativeDocumentMoniker": "Modder\\disassembler.h",
-              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\disassembler.h",
-              "RelativeToolTip": "Modder\\disassembler.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-30T21:19:51.273Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "disassembler.cpp",
-              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\disassembler.cpp",
-              "RelativeDocumentMoniker": "Modder\\disassembler.cpp",
-              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\disassembler.cpp",
-              "RelativeToolTip": "Modder\\disassembler.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T21:19:15.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "debug.cpp",
-              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\debug.cpp",
-              "RelativeDocumentMoniker": "Modder\\debug.cpp",
-              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\debug.cpp",
-              "RelativeToolTip": "Modder\\debug.cpp",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T15:48:25.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "debug.h",
               "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\debug.h",
               "RelativeDocumentMoniker": "Modder\\debug.h",
               "ToolTip": "D:\\Game Internals\\Modder\\Modder\\debug.h",
               "RelativeToolTip": "Modder\\debug.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-30T15:48:40.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "patternscan.cpp",
-              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\patternscan.cpp",
-              "RelativeDocumentMoniker": "Modder\\patternscan.cpp",
-              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\patternscan.cpp",
-              "RelativeToolTip": "Modder\\patternscan.cpp",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T10:53:14.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "calllogger.h",
-              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\calllogger.h",
-              "RelativeDocumentMoniker": "Modder\\calllogger.h",
-              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\calllogger.h",
-              "RelativeToolTip": "Modder\\calllogger.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-28T21:10:52.663Z"
+              "WhenOpened": "2024-07-11T18:56:24.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "disassembler.h",
+              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\disassembler.h",
+              "RelativeDocumentMoniker": "Modder\\disassembler.h",
+              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\disassembler.h",
+              "RelativeToolTip": "Modder\\disassembler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-11T18:55:15.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "call_logger.h",
+              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\call_logger.h",
+              "RelativeDocumentMoniker": "Modder\\call_logger.h",
+              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\call_logger.h",
+              "RelativeToolTip": "Modder\\call_logger.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-11T18:55:05.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "console.cpp",
+              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\console.cpp",
+              "RelativeDocumentMoniker": "Modder\\console.cpp",
+              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\console.cpp",
+              "RelativeToolTip": "Modder\\console.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T15:11:40.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "call_logger.cpp",
               "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\call_logger.cpp",
               "RelativeDocumentMoniker": "Modder\\call_logger.cpp",
               "ToolTip": "D:\\Game Internals\\Modder\\Modder\\call_logger.cpp",
               "RelativeToolTip": "Modder\\call_logger.cpp",
-              "ViewState": "AQIAADYAAAAAAAAAAAAwwEwAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-28T21:02:08.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DLL_Injector.cpp",
-              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\DLL_Injector.cpp",
-              "RelativeDocumentMoniker": "Modder\\DLL_Injector.cpp",
-              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\DLL_Injector.cpp",
-              "RelativeToolTip": "Modder\\DLL_Injector.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-28T10:07:50.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DLLInjector.h",
-              "DocumentMoniker": "D:\\Game Internals\\Modder\\Modder\\DLLInjector.h",
-              "RelativeDocumentMoniker": "Modder\\DLLInjector.h",
-              "ToolTip": "D:\\Game Internals\\Modder\\Modder\\DLLInjector.h",
-              "RelativeToolTip": "Modder\\DLLInjector.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-28T10:12:42.729Z"
+              "WhenOpened": "2024-05-28T21:02:08.966Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,9 +1,10 @@
 #include <iostream>
 #include <stdlib.h>
 #include "DLLInjector.h"
-#include "calllogger.h"
+#include "call_logger.h"
 #include "patternscan.h"
 #include "debug.h"
+#include "disassembler.h"
 
 
 void print_help() {
@@ -45,20 +46,11 @@ int main(int argc,char* argv[]) {
 				std::cout << "Dll injection Failed" << std::endl;
 			}
 		}
-		
-		break;
-
-	case 3:
-		
-		if (std::string(argv[1]) == "-calllogger") {
+		if (std::string(argv[1]) == "-calllog") {
 			std::cout << "Call Logger Running ...." << std::endl;
-			std::string game_window_name = static_cast<std::string>(argv[2]);
-			call_log(game_window_name);
-		}
-		if (std::string(argv[1]) == "-debug") {
-			std::cout << "Debugger Running ...." << std::endl;
 			std::string processName = static_cast<std::string>(argv[2]);
-			debug();
+			std::string address = static_cast<std::string>(argv[3]);
+			call_log(processName, address);
 		}
 		if (std::string(argv[1]) == "-dis") {
 			std::cout << "Disassembly:" << std::endl;
@@ -66,6 +58,17 @@ int main(int argc,char* argv[]) {
 			std::string address = static_cast<std::string>(argv[3]);
 			disassemble(processName, address);
 		}
+		
+		break;
+
+	case 3:
+		
+		if (std::string(argv[1]) == "-debug") {
+			std::cout << "Debugger Running ...." << std::endl;
+			std::string processName = static_cast<std::string>(argv[2]);
+			debug(processName);
+		}
+		
 		break;
 	case 2:
 		if (std::string(argv[1]) == "-help") {

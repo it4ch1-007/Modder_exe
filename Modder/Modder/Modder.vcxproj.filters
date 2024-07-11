@@ -33,12 +33,15 @@
     <ClCompile Include="disassembler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="memory_scanner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DLLInjector.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="calllogger.h">
+    <ClInclude Include="call_logger.h">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="patternscan.h">
@@ -49,6 +52,9 @@
     </ClInclude>
     <ClInclude Include="disassembler.h">
       <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="memory_scanner.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
